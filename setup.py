@@ -4,7 +4,7 @@ with open("README.md","r") as fh:
 
 setuptools.setup(
     name="flask-asshole",
-    version="0.0.1",
+    version="0.0.dev01",
     author="bennettrong",
     author_email="rongqingyu196@gmail.com",
     maintainer='bennettrong',
